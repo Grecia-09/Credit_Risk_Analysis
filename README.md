@@ -15,33 +15,51 @@ After all, I evaluated the performance of these models and make a recommendation
 
 ***Naive Random Oversampling***
 
-Accuracy Score: 67.4%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 72%
-Recall Low Risk: 63%
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
 
 ***SMOTE Oversampling***
 
-Accuracy Score: 66.2%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 66%
-Recall Low Risk: 66%
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
 
 ***Cluster Centroid Undersampling***
 
-Accuracy Score: 66.2%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 66%
-Recall Low Risk: 66%
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
 
 ***SMOTEENN Sampling***
 
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
+
 ***Balanced Random Forest Classifying***
 
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
+
 ***Easy Ensemble Classifying***
+
+- Accuracy Score: 
+- Precision High Risk: 
+- Precision Low Risk: 
+- Recall High Risk: 
+- Recall Low Risk:
 
 
 
