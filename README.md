@@ -9,7 +9,7 @@ The purpose of this analysis was to use Python to build and evaluate several mac
 - Use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm.
 - Compare two machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
-After all, I evaluated the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+After all, I evaluated the performance of these models and made a recommendation on whether they should be used to predict credit risk.
 
 ## Results
 
