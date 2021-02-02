@@ -71,3 +71,4 @@ After performing the credit risk analysis using different models, we can see tha
 
 One thing we can't deny is that the Ensemble Classifiers models brought a lot more improvement especially on the sensitivity of the high-risk credits. The Easy Ensemble Classifying model shows a recall of 94%, meaning that it detects almost all high-risk credit. On another hand, with low precision, a lot of low-risk credits are still falsely detected as high risk.
 
+Taking into account the results, the model that I recommend implementing for predicting high risk loans is the Easy Ensemble Classifying model.
